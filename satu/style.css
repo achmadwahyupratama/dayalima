@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+#DIV1 {
+  border: 1px solid rgba(0, 0, 0, 1);
+  height: 100%;
+  width: 100%;
+}
+
+#DIV2 {
+  border: 1px solid rgba(0, 0, 0, 1);
+  margin: 59px 75px 75px 75px;
+  background-color: orange;
+}
+
+#DIV3 {
+  border: 1px solid rgba(0, 0, 0, 1);
+  margin: 59px 75px 75px 75px;
+  background-color: green;
+  height: 400px;;
+  width: auto;
+}
